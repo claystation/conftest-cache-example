@@ -1,0 +1,4 @@
+apiVersion: something
+kind: something
+metadata:
+  name: name
